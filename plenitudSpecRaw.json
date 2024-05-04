@@ -1,9 +1,9 @@
 {
-  "name": "Splendor",
-  "id": "splendor_mainnet",
+  "name": "Plenitud",
+  "id": "plenitud_testnet",
   "chainType": "Local",
   "bootNodes": [
-    "/ip4/24.144.104.221/tcp/30333/p2p/12D3KooWSNspXwaLmtTec78keeP7KKPDapFJyYXxqtSFWsZzeCo2"
+    "/ip4/64.23.226.236/tcp/30333/p2p/12D3KooWSNspXwaLmtTec78keeP7KKPDapFJyYXxqtSFWsZzeCo2"
   ],
   "telemetryEndpoints": null,
   "protocolId": null,
